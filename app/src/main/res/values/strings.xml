@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GooglePlaces</string>
+    <string name="get_places">Get Places</string>
+    <string-array name="types">
+        <item>atm</item>
+        <item>school</item>
+        <item>mall</item>
+        <item>theatre</item>
+        <item>locale</item>
+        <item>eatery</item>
+        <item>car-wash</item>
+    </string-array>
+</resources>
